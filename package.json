@@ -1,0 +1,26 @@
+{
+  "name": "fs-multi-copy",
+  "version": "1.0.0",
+  "description": "Copy multiple files",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nickmessing/fs-multi-copy.git"
+  },
+  "keywords": [
+    "fs",
+    "copy"
+  ],
+  "author": "Nick Messing <dot.nick.dot.messing@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nickmessing/fs-multi-copy/issues"
+  },
+  "homepage": "https://github.com/nickmessing/fs-multi-copy",
+  "dependencies": {
+    "ncp": "^2.0.0"
+  }
+}
